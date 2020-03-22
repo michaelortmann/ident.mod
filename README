@@ -1,0 +1,19 @@
+Description:
+
+  ident.mod is a builtin and oidentd module for eggdrop.
+
+  This is the last version before license change from MIT to GPL.
+
+  Meanwhile Its merged into https://github.com/eggheads/eggdrop.
+
+License:
+
+  MIT License
+  Copyright (c) 2018 - 2019 Michael Ortmann
+
+Website:
+
+  https://gitlab.com/mortmann/ident.mod
+
+Enjoy,
+Michael
